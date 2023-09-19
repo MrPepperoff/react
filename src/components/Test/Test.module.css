@@ -1,0 +1,13 @@
+.Test{
+    min-height: 100px;
+    background: #999;
+}
+.content{
+    color: blue;
+    margin: 0;
+    font-size: 30px;
+    font-weight: bold;
+}
+.content2{
+    border: 1px solid #a00;
+}
