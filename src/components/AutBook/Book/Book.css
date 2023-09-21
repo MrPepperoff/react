@@ -1,0 +1,15 @@
+li{
+    padding-left: 5px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+li:nth-child(2n+1){
+    background: #777;
+}
+li:nth-child(2n){
+    background: #555;
+}
+button{
+    text-align: end;
+}
